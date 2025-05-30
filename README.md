@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Deepak Vishwakarma
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Computer science Engineering
-- 💞️ I’m looking to collaborate on Python Projects
-- 📫 How to reach me dv708914@gmail.com and
+- 🌱 I’m currently studying Computer science Engineering
+- 💞️ I’m looking to collaborate on Java Projects
+- 📫 How to reach me deepakvishwakarma1503@gmail.com and
 - Contact No. 7415403486 
 
 <!---
