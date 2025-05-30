@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepak Vishwakarma
 - 👀 I’m interested in Programming
-- 🌱 I’m currently studying Computer science Engineering
+- 🌱 I’m currently studying Computer Science Engineering
 - 💞️ I’m looking to collaborate on Java Projects
 - 📫 How to reach me deepakvishwakarma1503@gmail.com and
 - Contact No. 7415403486 
