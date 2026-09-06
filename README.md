@@ -9,7 +9,7 @@ Deepak Vishwakarma
 
 🤝 Open to internships, freelance opportunities, and research collaborations in AI and software engineering.
 
-📫 Email: deepakvishwakarma1503@gmail.com
+📫 Email: dv708914@gmail.com
 
 📞 Phone: +91 7415403486
 
